@@ -1,0 +1,41 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-family: 'Cormorant', serif;
+}
+
+.email-input {
+    width: 75%;
+    height: 2.75em;
+    /* transform: scale(1.15, 1.75); */
+    /* height: 3.5em; */
+    /* font-size: 1.5em; */
+    padding-left: .5em;
+    border: 2px gray solid;
+    -webkit-border-radius: .35rem;
+    -moz-border-radius: .35rem;
+    border-radius: .35rem;
+}
+.email-button {
+    width: 75%;
+    height: 2.75em;
+}
+
+/* @media (max-width: 1199px){
+    .email-input {
+        width: 100%;
+    }
+    .email-button {
+        width: 100%;
+    }
+} */
+
+.border-2 {
+    border-width:2px !important;
+}
+
+.border-3 {
+    border-width:3px !important;
+}
