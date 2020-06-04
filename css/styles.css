@@ -32,6 +32,13 @@ h1 {
     }
 } */
 
+.border-custom {
+    border-color: #e8cdd6 !important;
+    border-radius: 50% !important;
+    border-style: solid !important;
+    background-color: #e8cdd6 !important;
+}
+
 .border-2 {
     border-width:2px !important;
 }
@@ -39,3 +46,7 @@ h1 {
 .border-3 {
     border-width:3px !important;
 }
+
+/* .border-color-pink {
+    border-color: #e8cdd6;
+} */
